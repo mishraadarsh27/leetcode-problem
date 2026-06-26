@@ -10,6 +10,7 @@
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
