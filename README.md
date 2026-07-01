@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
@@ -51,4 +53,16 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
