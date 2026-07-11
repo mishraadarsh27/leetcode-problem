@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
