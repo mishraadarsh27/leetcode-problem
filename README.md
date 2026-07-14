@@ -9,6 +9,7 @@
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -42,6 +43,7 @@
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
+| [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +62,7 @@
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
+| [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
