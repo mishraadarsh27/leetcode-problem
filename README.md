@@ -118,6 +118,7 @@
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
@@ -152,9 +153,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
