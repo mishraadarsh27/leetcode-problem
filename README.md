@@ -121,6 +121,7 @@
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
