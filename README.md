@@ -48,6 +48,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
+| [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -116,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -177,5 +179,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
