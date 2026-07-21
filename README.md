@@ -14,6 +14,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -134,6 +135,7 @@
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
+| [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3499-maximize-active-section-with-trade-i) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
