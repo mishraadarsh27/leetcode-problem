@@ -31,6 +31,7 @@
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -60,6 +61,7 @@
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -94,6 +96,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
