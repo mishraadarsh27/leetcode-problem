@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
