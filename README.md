@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -56,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
@@ -157,6 +159,7 @@
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
