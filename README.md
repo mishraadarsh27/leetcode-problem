@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0495-teemo-attacking](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
@@ -220,6 +221,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
