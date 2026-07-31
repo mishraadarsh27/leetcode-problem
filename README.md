@@ -20,6 +20,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -45,6 +46,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,12 +118,14 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +249,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
