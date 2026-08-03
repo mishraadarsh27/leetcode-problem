@@ -165,6 +165,7 @@
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -203,16 +204,19 @@
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search
 |  |
 | ------- |
