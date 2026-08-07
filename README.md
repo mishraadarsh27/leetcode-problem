@@ -15,6 +15,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
+| [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -33,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +83,7 @@
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -117,6 +120,7 @@
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1656-design-an-ordered-stream) |
