@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
@@ -74,6 +75,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0495-teemo-attacking](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
@@ -116,6 +118,7 @@
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0508-most-frequent-subtree-sum) |
+| [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
@@ -363,4 +366,8 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0508-most-frequent-subtree-sum) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
