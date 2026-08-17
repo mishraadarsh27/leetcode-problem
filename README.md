@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 | [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -396,4 +398,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
