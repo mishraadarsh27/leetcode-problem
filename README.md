@@ -98,6 +98,7 @@
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -139,6 +140,7 @@
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1656-design-an-ordered-stream) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
+| [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2126-destroying-asteroids) |
