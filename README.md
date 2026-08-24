@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -84,6 +86,7 @@
 | [0495-teemo-attacking](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
@@ -174,6 +177,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0457-circular-array-loop) |
+| [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -275,6 +279,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -413,6 +418,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Timsort
 |  |
