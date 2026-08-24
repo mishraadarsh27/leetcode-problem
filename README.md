@@ -14,6 +14,7 @@
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0859-buddy-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0859-buddy-strings) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
@@ -39,6 +40,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -90,6 +92,7 @@
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
@@ -136,6 +139,7 @@
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0859-buddy-strings) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
