@@ -7,6 +7,7 @@
 | [0008-string-to-integer-atoi](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
@@ -324,6 +325,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 ## Simulation
@@ -385,6 +387,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0055-jump-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
@@ -467,4 +470,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
