@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
@@ -373,6 +374,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 ## Counting Sort
 |  |
