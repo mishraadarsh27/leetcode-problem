@@ -88,6 +88,7 @@
 | [0046-permutations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -327,6 +328,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 ## Simulation
 |  |
