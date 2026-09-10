@@ -298,6 +298,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -315,6 +317,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
