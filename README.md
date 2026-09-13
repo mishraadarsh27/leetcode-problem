@@ -109,6 +109,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0833-find-and-replace-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0833-find-and-replace-in-string) |
+| [0835-image-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
