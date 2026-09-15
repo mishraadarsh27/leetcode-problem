@@ -116,6 +116,7 @@
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
+| [0989-add-to-array-form-of-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
@@ -277,6 +278,7 @@
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
 | [1510-stone-game-iv](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1510-stone-game-iv) |
