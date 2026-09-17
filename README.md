@@ -94,6 +94,7 @@
 | [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -438,6 +439,7 @@
 | [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
