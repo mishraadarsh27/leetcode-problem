@@ -96,6 +96,7 @@
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -216,6 +217,7 @@
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0457-circular-array-loop) |
 | [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
@@ -276,6 +278,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
