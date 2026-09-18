@@ -61,6 +61,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2126-destroying-asteroids) |
@@ -134,6 +135,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1656-design-an-ordered-stream) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
