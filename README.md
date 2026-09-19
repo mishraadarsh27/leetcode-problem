@@ -293,6 +293,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
@@ -315,6 +316,7 @@
 | ------- |
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Tree
 |  |
 | ------- |
