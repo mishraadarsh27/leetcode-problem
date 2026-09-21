@@ -152,6 +152,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -198,6 +199,7 @@
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -401,6 +403,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1291-sequential-digits) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3499-maximize-active-section-with-trade-i) |
