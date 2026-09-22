@@ -565,4 +565,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
