@@ -49,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@
 | [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
@@ -438,6 +440,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
