@@ -61,6 +61,7 @@
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -136,6 +137,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -423,6 +425,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2029-stone-game-ix) |
