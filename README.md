@@ -26,6 +26,7 @@
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1927-sum-game) |
@@ -147,6 +148,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1656-design-an-ordered-stream](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -206,6 +208,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
