@@ -26,6 +26,7 @@
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
@@ -452,6 +453,7 @@
 | [0020-valid-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
@@ -580,6 +582,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
