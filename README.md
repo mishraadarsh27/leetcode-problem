@@ -311,6 +311,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
@@ -350,6 +351,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0508-most-frequent-subtree-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -369,6 +371,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0508-most-frequent-subtree-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -494,6 +497,7 @@
 | [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -516,6 +520,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Quicksort
