@@ -92,6 +92,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -242,6 +246,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -434,6 +439,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -631,4 +637,5 @@
 |  |
 | ------- |
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
