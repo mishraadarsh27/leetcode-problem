@@ -130,6 +130,7 @@
 | [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
+| [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
+| [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1656-design-an-ordered-stream) |
 ## Hash Function
@@ -393,6 +395,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -636,6 +639,11 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
