@@ -26,6 +26,7 @@
 | [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
@@ -481,6 +482,7 @@
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -619,6 +621,7 @@
 | [0022-generate-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
