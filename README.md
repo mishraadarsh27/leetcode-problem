@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0148-sort-list) |
@@ -113,6 +114,7 @@
 | [0041-first-missing-positive](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
@@ -554,6 +556,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0056-merge-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Minimax
 |  |
