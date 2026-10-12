@@ -333,6 +333,7 @@
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0263-ugly-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
