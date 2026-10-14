@@ -34,6 +34,7 @@
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
@@ -546,6 +547,7 @@
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1668-maximum-repeating-substring](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
@@ -670,4 +672,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
