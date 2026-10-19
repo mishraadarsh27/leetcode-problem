@@ -357,6 +357,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -441,6 +442,7 @@
 | [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
