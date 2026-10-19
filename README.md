@@ -163,6 +163,7 @@
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -590,6 +591,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
