@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0748-shortest-completing-word) |
@@ -346,6 +347,7 @@
 | [0096-unique-binary-search-trees](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -461,6 +463,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1929-concatenation-of-array) |
