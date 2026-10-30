@@ -55,6 +55,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/mishraadarsh27/leetcode-problem/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
@@ -314,6 +316,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
