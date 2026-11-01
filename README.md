@@ -32,6 +32,7 @@
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1208-get-equal-substrings-within-budget) |
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -450,6 +451,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1208-get-equal-substrings-within-budget) |
 | [1348-tweet-counts-per-frequency](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1348-tweet-counts-per-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -632,6 +634,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -665,6 +668,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
+| [1208-get-equal-substrings-within-budget](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
