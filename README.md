@@ -206,6 +206,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -308,6 +309,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
@@ -460,6 +462,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -512,6 +515,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
