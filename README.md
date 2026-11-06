@@ -301,6 +301,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0148-sort-list) |
@@ -328,6 +329,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
