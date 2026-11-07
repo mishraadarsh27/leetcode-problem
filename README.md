@@ -115,6 +115,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1882-process-tasks-using-servers) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -187,6 +188,7 @@
 | [1672-richest-customer-wealth](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1882-process-tasks-using-servers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1882-process-tasks-using-servers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
