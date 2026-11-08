@@ -171,6 +171,7 @@
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1169-invalid-transactions](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1169-invalid-transactions) |
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -353,6 +355,7 @@
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3310-remove-methods-from-project) |
@@ -364,6 +367,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -443,6 +447,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0508-most-frequent-subtree-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3310-remove-methods-from-project) |
@@ -480,6 +485,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0399-evaluate-division) |
+| [1267-count-servers-that-communicate](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
