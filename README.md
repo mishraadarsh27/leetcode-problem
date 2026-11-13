@@ -218,6 +218,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -585,6 +586,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -701,6 +703,7 @@
 | [2747-count-zero-request-servers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Timsort
 |  |
 | ------- |
@@ -760,6 +763,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0729-my-calendar-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -772,4 +776,13 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0853-car-fleet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
