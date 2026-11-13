@@ -165,6 +165,7 @@
 | [0881-boats-to-save-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
+| [0957-prison-cells-after-n-days](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0957-prison-cells-after-n-days) |
 | [0989-add-to-array-form-of-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
@@ -261,6 +262,7 @@
 | [0859-buddy-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0859-buddy-strings) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0953-verifying-an-alien-dictionary) |
+| [0957-prison-cells-after-n-days](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0957-prison-cells-after-n-days) |
 | [0997-find-the-town-judge](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1122-relative-sort-array) |
@@ -399,6 +401,7 @@
 | [0812-largest-triangle-area](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0957-prison-cells-after-n-days) |
 | [0989-add-to-array-form-of-integer](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1154-day-of-the-year) |
@@ -503,6 +506,7 @@
 | [0078-subsets](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0957-prison-cells-after-n-days](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0957-prison-cells-after-n-days) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -721,6 +725,7 @@
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0457-circular-array-loop) |
+| [0957-prison-cells-after-n-days](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0957-prison-cells-after-n-days) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
