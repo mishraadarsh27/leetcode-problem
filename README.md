@@ -181,6 +181,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -409,6 +410,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1927-sum-game) |
@@ -636,6 +638,7 @@
 | [0877-stone-game](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -675,6 +678,7 @@
 | [1140-stone-game-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
