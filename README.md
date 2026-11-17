@@ -47,6 +47,7 @@
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -327,6 +328,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -644,6 +646,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/mishraadarsh27/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3665-twisted-mirror-path-count) |
