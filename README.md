@@ -349,6 +349,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -732,6 +733,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/mishraadarsh27/leetcode-problem/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
