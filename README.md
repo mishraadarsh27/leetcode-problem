@@ -100,6 +100,7 @@
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -210,6 +211,7 @@
 | [2418-sort-the-people](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -579,6 +581,7 @@
 | [2126-destroying-asteroids](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mishraadarsh27/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
